@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2027.06*: &nbsp;🎉🎉 I will complete my studies in Computer Science and Technology at Hong Kong Metropolitan University and obtain a bachelor's degree. 
+- *2026.03*: &nbsp;🎉🎉 Joined [Dr. Hongli Huang's lab](https://scholars.hkmu.edu.hk/en/persons/hongli-huang/) at Hong Kong Metropolitan University.
 
 # 📝 Publications 
 
@@ -47,12 +47,19 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2027.06 (now)*, Hong Kong Metropolitan University: Bachelor of Science (Honours) in Computer Science. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2024.06 - 2024.08*, O2O Department, Guangdong Guoyao Pharmaceutical Chain Enterprise Co., Ltd., Guangzhou, China.  
+  Collected, standardized, and cross-verified offline store product pricing data; maintained online product information on the Meituan Merchant Platform to ensure consistency between online listings and offline stores.
+
+- *2025.07 - 2025.08*, Assistant to the Deputy General Manager, Guangdong Tianyuan Technology Co., Ltd., Guangzhou, China.  
+  Conducted industry and business research on commercial remote sensing satellites, covering satellite data acquisition, intelligent processing, productization, vertical applications, market trends, competition, and policy directions.
+
+- *2026.06 - 2026.08 (Expected)*, Research Assistant, Prof. XIONG Hui's Research Group, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China.  
+  Will participate in research under the academic guidance of Prof. XIONG Hui.
